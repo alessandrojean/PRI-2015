@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	font-family:Arial, Helvetica, sans-serif;	
+}
+
+table
+{
+	border: 2px solid #000000;	
+	width: 50%;
+}
+
+td
+{
+	font-size:11px;
+	border-width:1px;
+	border-color:#999999;
+	border-right-style:solid;
+	border-bottom-style:solid;	
+}
+
+#titulo_tabela
+{
+	background-color:#cccccc;	
+}
+
+#BtIncluir
+{
+	background-color:#F90;
+	color:#00C;
+	font-weight:bold;
+	cursor:pointer;
+}
+
+#BtCancelar
+{
+	background-color:white;
+	color:red;
+	font-weight:bold;
+	cursor:pointer;
+}
+#btExibir
+{
+	background-color:#00C;
+	color:#F90;
+	font-weight:bold;
+	cursor:pointer;
+}
+
+.Tamanho
+{
+	font-size:24px;
+	color: #09C;	
+}

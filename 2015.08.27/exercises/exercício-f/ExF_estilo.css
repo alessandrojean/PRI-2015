@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	font-family:Arial, Arial, Helvetica, sans-serif;	
+}
+
+table
+{
+	border: 2px solid black;
+	width:50%;	
+}
+
+td
+{
+	font-size:11px;
+	border-width:1px;
+	border-color:#999999;
+	border-right-style:solid;
+	border-bottom-style:solid;	
+}
+
+#titulo_tabela
+{
+	background-color: #f3f3f3;	
+}
+
+.impar
+{
+	background-color:white;
+}
+
+.par
+{
+	background-color:#f3f3f3;
+}
