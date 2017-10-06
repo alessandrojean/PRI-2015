@@ -1,4 +1,5 @@
 # PRI-2015
+![Year](https://img.shields.io/badge/year-2015-blue.svg) ![Last class](https://img.shields.io/badge/last_class-2015.11.19-green.svg) ![Language](https://img.shields.io/badge/language-PHP-yellow.svg) ![IDE](https://img.shields.io/badge/IDE-Dreamweaver_CS5-orange.svg)
 
 Simple repository for the algorithms written in the classes of "Programação para Internet", in PHP language, using Dreamweaver CS5.
 
